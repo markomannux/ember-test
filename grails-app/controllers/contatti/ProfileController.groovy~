@@ -1,0 +1,6 @@
+package contatti
+
+class ProfileController {
+
+    def index() { }
+}
